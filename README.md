@@ -1,4 +1,4 @@
-# Tomorrow's Promise
+# Tomorrow's Study
 Latest Version: 1.0.0 (Alpha)
 
 Currently only Math materials are presently able to be made in initial presence. 
