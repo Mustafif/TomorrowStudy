@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.28)  5 FEB 2021 23:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.28)  5 FEB 2021 23:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -658,40 +658,46 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+<TS.png, id=11, 376.40625pt x 376.40625pt>
+File: TS.png Graphic file (type png)
+<use TS.png>
+Package pdftex.def Info: TS.png  used on input line 31.
+(pdftex.def)             Requested size: 188.20265pt x 188.20265pt.
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/TomorrowStudy/tmp/AdvFuncMK/AdvFuncMK.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/mustafif/TomorrowStudy/tmp/AdvFuncMK/TS.png>] (/home/mustafif/TomorrowStudy/tmp/AdvFuncMK/AdvFuncMK.toc)
 \tf@toc=\write5
 \openout5 = `AdvFuncMK.toc'.
 
  [2]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 37.
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 42.
 \tf@thm=\write6
 \openout6 = `AdvFuncMK.thm'.
 
  [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
  (/home/mustafif/TomorrowStudy/tmp/AdvFuncMK/AdvFuncMK.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 51.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
 Package rerunfilecheck Info: File `AdvFuncMK.out' has not changed.
 (rerunfilecheck)             Checksum: 0B8D0A233CBEE121917F1699E6EA1A64;55.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 56.
  ) 
 Here is how much of TeX's memory you used:
- 30020 strings out of 480906
- 739443 string characters out of 5910772
+ 30027 strings out of 480906
+ 739502 string characters out of 5910772
  1054994 words of memory out of 5000000
- 45090 multiletter control sequences out of 15000+600000
+ 45095 multiletter control sequences out of 15000+600000
  546720 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,6n,98p,768b,713s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /home/mustafif/TomorrowStudy/tmp/AdvFuncMK/AdvFuncMK.pdf (3 pages, 61544 bytes).
+Output written on /home/mustafif/TomorrowStudy/tmp/AdvFuncMK/AdvFuncMK.pdf (3 pages, 81167 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
