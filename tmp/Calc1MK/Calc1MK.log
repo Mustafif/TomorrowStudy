@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.28)  8 FEB 2021 10:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.28)  8 FEB 2021 10:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -658,40 +658,46 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+<TS.png, id=11, 376.40625pt x 376.40625pt>
+File: TS.png Graphic file (type png)
+<use TS.png>
+Package pdftex.def Info: TS.png  used on input line 30.
+(pdftex.def)             Requested size: 188.20265pt x 188.20265pt.
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/mustafif/TomorrowStudy/tmp/Calc1MK/Calc1MK.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/mustafif/TomorrowStudy/tmp/Calc1MK/TS.png>] (/home/mustafif/TomorrowStudy/tmp/Calc1MK/Calc1MK.toc)
 \tf@toc=\write5
 \openout5 = `Calc1MK.toc'.
 
  [2]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 35.
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 38.
 \tf@thm=\write6
 \openout6 = `Calc1MK.thm'.
 
  [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (/home/mustafif/TomorrowStudy/tmp/Calc1MK/Calc1MK.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
 Package rerunfilecheck Info: File `Calc1MK.out' has not changed.
 (rerunfilecheck)             Checksum: D9C9F58B9D55AB13EC7303B9116E08AF;59.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
  ) 
 Here is how much of TeX's memory you used:
- 30024 strings out of 480906
- 739422 string characters out of 5910772
- 1056980 words of memory out of 5000000
- 45092 multiletter control sequences out of 15000+600000
+ 30035 strings out of 480906
+ 739517 string characters out of 5910772
+ 1060980 words of memory out of 5000000
+ 45097 multiletter control sequences out of 15000+600000
  547057 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,6n,98p,764b,713s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /home/mustafif/TomorrowStudy/tmp/Calc1MK/Calc1MK.pdf (3 pages, 64017 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /home/mustafif/TomorrowStudy/tmp/Calc1MK/Calc1MK.pdf (3 pages, 103435 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

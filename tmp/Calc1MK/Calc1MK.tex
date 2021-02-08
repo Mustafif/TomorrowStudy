@@ -26,6 +26,9 @@ linktoc=all % 'all' will create links for everything in the TOC
 
 \begin{document}
 \maketitle
+\begin{center}
+    \includegraphics[scale = 0.5]{TS.png}
+\end{center}
 \pagenumbering{arabic}
 \newpage
 \tableofcontents
@@ -57,6 +60,36 @@ linktoc=all % 'all' will create links for everything in the TOC
     \begin{itemize}
         \item $\cos(-\theta) = \cos\theta$
         \item $\sin(-\theta) = -\sin\theta$
+    \end{itemize}
+\end{theorem}
+%
+\begin{theorem}[Sum and Difference Identities]
+    \begin{itemize}
+        \item $\cos(A+B) = \cos A\cos B - \sin A\sin B$
+        \item $\cos(A-B) = \cos A\cos B + \sin A\sin B$
+        \item $\sin(A+B) = \sin A\cos B + \cos A\sin B$
+        \item $\sin(A-B) = \sin A\cos B - \cos A\sin B$
+    \end{itemize}
+\end{theorem}
+%
+\begin{theorem}[Complementrary Angle Identities]
+    \begin{itemize}
+        \item $\cos(\frac{\pi}{2} - \theta) = \sin\theta$
+        \item $\sin(\frac{\pi}{2} - \theta) = \cos\theta$
+    \end{itemize}
+\end{theorem}
+%
+\begin{theorem}[Double Angle Identities]
+    \begin{itemize}
+        \item $\cos2\theta = \cos^2\theta - \sin^2\theta$
+        \item $\sin2\theta = 2\sin\theta\cos\theta$
+    \end{itemize}
+\end{theorem}
+%
+\begin{theorem}[Half-Angle Identities]
+    \begin{itemize}
+        \item $\cos^2\theta = \frac{1 + \cos2\theta}{2}$
+        \item $\sin^2\theta = \frac{1 - \cos2\theta}{2}$
     \end{itemize}
 \end{theorem}
 \end{document}
