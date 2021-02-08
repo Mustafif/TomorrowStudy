@@ -1,0 +1,62 @@
+\documentclass[12pt, letterpaper]{article}
+\title{Calculus 1 Formulas}
+\author{Mustafif Khan}
+\date{\today}
+\usepackage{color}
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true, % make the links colored
+linkcolor=black, % color TOC links in blue
+urlcolor=red, % color URLs in red
+linktoc=all % 'all' will create links for everything in the TOC
+}
+
+% All packages need for math related documents
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{siunitx}
+\usepackage{titlepic}
+\usepackage{graphicx}
+\usepackage{ntheorem}
+% To set the theorem as like sections
+\theoremstyle{break}
+\newtheorem{theorem}{Theorem}
+
+\begin{document}
+\maketitle
+\pagenumbering{arabic}
+\newpage
+\tableofcontents
+\newpage
+\section{Trigonometric Identities}
+%
+\begin{theorem}[Pythagorean Identity]
+    \begin{itemize}
+        \item $\cos^2\theta + \sin^2\theta = 1$
+        \item $\sec^2\theta - \tan^2\theta = 1$
+    \end{itemize}
+\end{theorem}
+%
+\begin{theorem}[Range]
+    \begin{itemize}
+        \item $-1 \leq \cos\theta \leq 1 $
+        \item $-1 \leq \sin\theta \leq 1$
+    \end{itemize}
+\end{theorem}
+%
+\begin{theorem}[Periodicity]
+    \begin{itemize}
+        \item $\cos(\theta \pm 2\pi) = \cos\theta$
+        \item $\sin(\theta \pm 2\pi) = \sin\theta$
+    \end{itemize}
+\end{theorem}
+%
+\begin{theorem}[Symmetry]
+    \begin{itemize}
+        \item $\cos(-\theta) = \cos\theta$
+        \item $\sin(-\theta) = -\sin\theta$
+    \end{itemize}
+\end{theorem}
+\end{document}
